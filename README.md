@@ -1,6 +1,18 @@
-# ![json.lua](https://cloud.githubusercontent.com/assets/3920290/9281532/99e5e0cc-42bd-11e5-8fce-eaff2f7fc681.png)
-A lightweight JSON library for Lua
+<!-- markdownlint-disable MD004 MD033 -->
+<div align="center">
 
+![json.lua](https://cloud.githubusercontent.com/assets/3920290/9281532/99e5e0cc-42bd-11e5-8fce-eaff2f7fc681.png)
+
+A lightweight JSON library for Lua
+# 
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-squaree&logo=lua&logoColor=white)
+[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=white)](https://discord.gg/xBFKJc6QRr)
+[![License](https://img.shields.io/github/license/darhanger/json.lua?style=flat-square)](https://github.com/darhanger/json.lua/releases) 
+[![Last Release](https://img.shields.io/github/v/release/darhanger/json.lua?style=flat-square)](https://github.com/darhanger/json.lua)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/json.lua/total?style=flat-square)](https://github.com/darhanger/json.lua/releases)
+
+</div>
 
 ## Features
 * Implemented in pure Lua: works with 5.1, 5.2, 5.3 and JIT
