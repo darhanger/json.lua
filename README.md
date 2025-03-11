@@ -6,8 +6,8 @@
 A lightweight JSON library for Lua
 # 
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-squaree&logo=lua&logoColor=white)
-[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=white)](https://discord.gg/xBFKJc6QRr)
+![Lua 5.1](https://img.shields.io/badge/Lua-5.1-2C2D72?style=flat-square&logo=lua&logoColor=white)
+[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ZKFkvrzaU4)
 [![License](https://img.shields.io/github/license/darhanger/json.lua?style=flat-square)](https://github.com/darhanger/json.lua/releases) 
 [![Last Release](https://img.shields.io/github/v/release/darhanger/json.lua?style=flat-square)](https://github.com/darhanger/json.lua)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/json.lua/total?style=flat-square)](https://github.com/darhanger/json.lua/releases)
